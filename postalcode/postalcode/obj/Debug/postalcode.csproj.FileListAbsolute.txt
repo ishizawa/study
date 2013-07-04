@@ -1,0 +1,6 @@
+c:\users\慶憲\documents\visual studio 2012\Projects\postalcode\postalcode\bin\Debug\postalcode.exe.config
+c:\users\慶憲\documents\visual studio 2012\Projects\postalcode\postalcode\bin\Debug\postalcode.exe
+c:\users\慶憲\documents\visual studio 2012\Projects\postalcode\postalcode\bin\Debug\postalcode.pdb
+c:\users\慶憲\documents\visual studio 2012\Projects\postalcode\postalcode\obj\Debug\postalcode.csprojResolveAssemblyReference.cache
+c:\users\慶憲\documents\visual studio 2012\Projects\postalcode\postalcode\obj\Debug\postalcode.exe
+c:\users\慶憲\documents\visual studio 2012\Projects\postalcode\postalcode\obj\Debug\postalcode.pdb
